@@ -11,7 +11,7 @@ public class PrintEven
 	}
 	public static void printEven(int n)
 	{
-		System.out.println("even numvers");
+		System.out.println("Even numbers");
 	for(int a=0;a<n;a++)
 	{
 	if(isEven(a))

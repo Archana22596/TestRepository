@@ -21,7 +21,7 @@ public class Product {
 	{
 	mul(1,2);	
 	mul(1,2,3);
-	mul(1.0,2.4,3.0);
+	mul(1.0,2.8,3.0);
 	}
 
 }

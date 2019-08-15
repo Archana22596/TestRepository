@@ -13,7 +13,7 @@ public class DisplayEven
 	}
 	public static void main(String[] args) 
 	{
-	displayEven(12,20);
+	displayEven(14,20);
 
 	}
 
